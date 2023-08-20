@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RA1911026010109
-- 👀 I’m interested in practical coding
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me Mail- ab7024@srmist.edu.in
+- 👋 Hi, I’m @Abhise Biswal
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning Data Structures and Algorithms, as well as diving deep into Data Science and ML
+- 💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning
+- 📫 You can reach me via email at ab76secondary@gmail.com
 
 <!---
 RA1911026010109/RA1911026010109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
