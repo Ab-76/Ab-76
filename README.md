@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Biswal</h1>
 <h3 align="center">I'm a coding enthusiast and data aficionado with a B.Tech in CSE-AIML. I bring dedication, organization, and self-direction to the table, backed by strong communication skills and a knack for fostering positive relationships. Currently exploring the depths of Data Science and ML, I'm excited to team up on projects that ignite innovation.</h3>
+![data-science-2-1](https://github.com/Ab-76/Ab-76/assets/90916163/4f8628ba-169b-47e6-bc15-978aeb9c906f)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-76&label=Profile%20views&color=0e75b6&style=flat" alt="ab-76" /> </p>
 
