@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-76&label=Profile%20views&color=0e75b6&style=flat" alt="ab-76" /> </p>
 
-- 🌱 I’m currently learning **Data Science & ML**
+- 🌱 I’m currently learning **Data Science, ML & Stats/Probability**
 
-- 💬 Ask me about **C, C++, Python, SQL, DSA, Excel, Power BI**
+- 💬 Ask me about **C, C++, Python, SQL, DSA, Machine Learning**
 
 - 📫 How to reach me **abskbswlan@gmail.com**
 
