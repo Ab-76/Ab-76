@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@abhisek76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisek76" height="30" width="40" /></a>
 <a href="https://instagram.com/_ab_76_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ab_76_" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhisek biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisek biswal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhisek biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek biswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhisek-biswal-89b07125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek biswal" height="30" width="40" /></a>
 </p>
 
 
