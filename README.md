@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Science, ML & Stats/Probability**
 
-- 💬 Ask me about **C, C++, Python, SQL, DSA, Machine Learning**
+- 💬 Ask me about **C, C++, Python, SQL, DSA, Deep Learning, Gne AI**
 
-- 📫 How to reach me **abskbswlan@gmail.com**
+- 📫 How to reach me **ab76@secondary@gmail.com**
 
 - ⚡ Fun fact **I think I have a knack for being Chandler Bing**
 
